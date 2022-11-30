@@ -4,7 +4,8 @@
 
 ## Atualmente estou fazendo projetos, e aprendendo com ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="40" height="40"/><img src="https://img.icons8.com/officel/512/express-js.png" width="40" height="40"/><img src="https://img.icons8.com/officel/512/react.png" width="40" height="40"/><img src="https://img.icons8.com/fluency/512/node-js.png" width="40" height="40"/>
 
 ##  Contatos:
 <div>

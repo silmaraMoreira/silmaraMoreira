@@ -1,8 +1,8 @@
-## Olá. Me chamo Silmara. :heart_eyes:
+## Olá. Me chamo Silmara.
 #### Sejam bem vindos ao meu perfil do GitHub! :green_heart:
 <img src="https://media.tenor.com/OKLkZ1Um5HIAAAAC/mad-typing.gif" />
 
-## Fazendo projetos, e aprendendo com ...
+## Atualmente estou fazendo projetos, e aprendendo com ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 
